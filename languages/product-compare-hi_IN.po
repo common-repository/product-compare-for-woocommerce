@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: matrimonial manager\n"
+"POT-Creation-Date: 2021-01-29 12:13+0530\n"
+"PO-Revision-Date: 2021-01-29 13:01+0530\n"
+"Last-Translator: Codelizar <codelizar@gmail.com>\n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/inc/dashboard_page.php:26 admin/inc/tmp.php:9
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+#: admin/inc/dashboard_page.php:54 admin/inc/tmp.php:16
+msgid "General Settings"
+msgstr "सामान्य सेटिंग्स"
+
+#: admin/inc/dashboard_page.php:61 admin/inc/tmp.php:24
+msgid "Compare Button Type"
+msgstr "तुलना बटन प्रकार"
+
+#: admin/inc/dashboard_page.php:63 admin/inc/tmp.php:26
+msgid "Seletc button type"
+msgstr "बटन प्रकार चुनें"
+
+#: admin/inc/dashboard_page.php:64 admin/inc/tmp.php:27
+msgid "Link"
+msgstr "संपर्क"
+
+#: admin/inc/dashboard_page.php:65 admin/inc/tmp.php:28
+msgid "button"
+msgstr "बटन"
+
+#: admin/inc/dashboard_page.php:69 admin/inc/tmp.php:32
+msgid "Link/Button text"
+msgstr "लिंक / बटन पाठ"
+
+#: admin/inc/dashboard_page.php:70 admin/inc/tmp.php:33
+msgid "Ex: Compare/tally the products"
+msgstr "Ex: उत्पादों की तुलना / मिलान करें"
+
+#: admin/inc/dashboard_page.php:75 admin/inc/tmp.php:38
+msgid "Show compare button to single page"
+msgstr "किसी एकल पृष्ठ पर तुलना बटन दिखाएं"
+
+#: admin/inc/dashboard_page.php:79
+msgid "Show compare button in products archive page"
+msgstr "उत्पादों के संग्रह पृष्ठ में तुलना बटन दिखाएं"
+
+#: admin/inc/dashboard_page.php:88
+msgid "Frontend Settings"
+msgstr "फ़्रंट एंड सेटिंग्स"
+
+#: admin/inc/dashboard_page.php:94
+msgid "Compare window/box title"
+msgstr "विंडो / बॉक्स शीर्षक की तुलना करें"
+
+#: admin/inc/dashboard_page.php:104
+msgid "Fields to Show"
+msgstr "दिखाने के लिए फ़ील्ड"
+
+#: admin/inc/dashboard_page.php:107
+msgid "Please select the field from list, which you want to show in comaprison"
+msgstr "कृपया उस सूची से फ़ील्ड चुनें, जिसे आप तुलना में दिखाना चाहते हैं"
+
+#: admin/inc/dashboard_page.php:111
+msgid "Product Image"
+msgstr "उत्पाद का चित्र"
+
+#: admin/inc/dashboard_page.php:114
+msgid "Product Title"
+msgstr "उत्पाद का शीर्षक"
+
+#: admin/inc/dashboard_page.php:117
+msgid "Product Price"
+msgstr "उत्पाद की कीमत"
+
+#: admin/inc/dashboard_page.php:120
+msgid "Product Description"
+msgstr "उत्पाद वर्णन"
+
+#: admin/inc/dashboard_page.php:124
+msgid "Product SKU"
+msgstr "उत्पाद SKU"
+
+#: admin/inc/dashboard_page.php:129
+#: public/handler/show_compared_products.php:158
+msgid "Product Dimensions"
+msgstr "उत्पाद के आयाम"
+
+#: admin/inc/proco_Menu.php:7
+msgid "CDLZR Product Compare"
+msgstr "CDLZR उत्पाद तुलना"
+
+#: admin/inc/proco_Menu.php:7
+msgid "Pro Co"
+msgstr "प्रो सह"
+
+#: admin/inc/tmp.php:42
+msgid "Show button in products list"
+msgstr "उत्पादों की सूची में बटन दिखाएं"
+
+#: product-compare-for-woocommerce.php:56
+msgid "Plugin activated but no use with out WOOCOMMERCE"
+msgstr "प्लगइन सक्रिय हुआ लेकिन WOOCOMMERCE के बिना कोई उपयोग नहीं"
+
+#: product-compare-for-woocommerce.php:68
+msgid "Woocommerce is activated"
+msgstr "Woocommerce सक्रिय है"
+
+#: public/function_addbutton.php:78 public/public.php:88
+msgid "Close"
+msgstr "बंद करे"
+
+#: public/handler/show_compared_products.php:88
+msgid "Product comparison table"
+msgstr "उत्पाद तुलना तालिका"
+
+#: public/handler/show_compared_products.php:113
+msgid "Title"
+msgstr "शीर्षक"
+
+#: public/handler/show_compared_products.php:129
+msgid "SKU"
+msgstr "SKU"
+
+#: public/handler/show_compared_products.php:143
+msgid "Short Description"
+msgstr "संक्षिप्त वर्णन"
+
+#: public/handler/show_compared_products.php:175
+msgid "Product Weight"
+msgstr "उत्पाद - भार"
+
+#: public/handler/show_compared_products.php:185
+msgid "Stock Status"
+msgstr "स्टॉक की स्थिति"
+
+#: public/handler/show_compared_products.php:195
+msgid "Rating"
+msgstr "रेटिंग"
+
+#: public/handler/show_compared_products.php:208
+msgid "Price"
+msgstr "कीमत"
+
+#: public/handler/show_compared_products.php:221
+msgid "Add to cart"
+msgstr "कार्ट में जोड़ें"
+
+#: public/public.php:76
+msgid "Modal title"
+msgstr "मोडल की उपाधि"
+
+#: public/public.php:82
+msgid "COMPARE TABLE"
+msgstr "तुलना तालिका"
+
+#: public/public.php:103
+msgid "View compare Table"
+msgstr "तुलना तालिका देखें"
+
+#~ msgid "Matrimonial"
+#~ msgstr "वैवाहिक"
+
+#~ msgid "CDLZR Matrimonial"
+#~ msgstr "वैवाहिक"
+
+#~ msgid "Update"
+#~ msgstr "अद्यतन"
+
+#~ msgid "Update Member"
+#~ msgstr "अद्यतन सदस्य"
+
+#~ msgid "Candidate's Name"
+#~ msgstr "उम्मीदवार का नाम"
+
+#~ msgid "Gender"
+#~ msgstr "लिंग"
+
+#~ msgid "Date of birth"
+#~ msgstr "जन्म की तारीख"
+
+#~ msgid "Birth place"
+#~ msgstr "जन्म स्थान"
+
+#~ msgid "Manglik"
+#~ msgstr "मांगलिक"
+
+#~ msgid "Gotra"
+#~ msgstr "गोत्र"
+
+#~ msgid "Maternal Gotra"
+#~ msgstr "मातृ गोत्र"
+
+#~ msgid "Father's Name"
+#~ msgstr "पिता का नाम"
+
+#~ msgid "Father's Contact No"
+#~ msgstr "पिता का संपर्क नं"
+
+#~ msgid "Father's occupation"
+#~ msgstr "पिता का व्यवसाय"
+
+#~ msgid "Mother name"
+#~ msgstr "मां का नाम"
+
+#~ msgid "Mother occupation"
+#~ msgstr "माँ का व्यवसाय"
+
+#~ msgid "Grand Father"
+#~ msgstr "दादा"
+
+#~ msgid "Native place"
+#~ msgstr "पैतृक स्थान"
+
+#~ msgid "S.No."
+#~ msgstr "क्र.सं."
+
+#~ msgid "Name"
+#~ msgstr "नाम"
+
+#~ msgid "City"
+#~ msgstr "नगर"
+
+#~ msgid "Contact no"
+#~ msgstr "संपर्क नंबर"
+
+#~ msgid "Address"
+#~ msgstr "पता"
+
+#~ msgid "Quick View"
+#~ msgstr "जल्दी देखो"
+
+#~ msgid "Edit"
+#~ msgstr "संपादित करें"
+
+#~ msgid "Delete"
+#~ msgstr "हटाएं"
+
+#~ msgid "Profile Detail"
+#~ msgstr "प्रोफाइल का विवरण"
+
+#~ msgid "Edit Profile Detail"
+#~ msgstr "प्रोफ़ाइल विवरण संपादित करें"
+
+#~ msgid "Update Profile"
+#~ msgstr "प्रोफ़ाइल संपादित करें"
+
+#~ msgid "Candiate Name"
+#~ msgstr "प्रत्याशी का नाम"
+
+#~ msgid "Candiate DOB"
+#~ msgstr "उम्मीदवार की जन्मतिथि"
+
+#~ msgid "Candiate Birth Place"
+#~ msgstr "अभ्यर्थी जन्म स्थान"
+
+#~ msgid "Birth Time"
+#~ msgstr "जन्म समय"
+
+#~ msgid "Candiate gender"
+#~ msgstr "अभ्यर्थी का लिंग"
+
+#~ msgid "Select"
+#~ msgstr "चयन"
+
+#~ msgid "Male"
+#~ msgstr "नर"
+
+#~ msgid "Female"
+#~ msgstr "महिला"
+
+#~ msgid "Yes"
+#~ msgstr "हाँ"
+
+#~ msgid "No"
+#~ msgstr "नहीं"
+
+#~ msgid "Don't know"
+#~ msgstr "पता नहीं"
+
+#~ msgid "Family Details"
+#~ msgstr "पारिवारिक विवरण"
+
+#~ msgid "Father Name"
+#~ msgstr "पिता का नाम"
+
+#~ msgid "Father Mobile No"
+#~ msgstr "पिता मोबाइल नं"
+
+#~ msgid "Father's Occupation "
+#~ msgstr "पिता का व्यवसाय "
+
+#~ msgid "Father Annual Income"
+#~ msgstr "पिता की वार्षिक आय"
+
+#~ msgid "Mother Name"
+#~ msgstr "मां का नाम"
+
+#~ msgid "Mother's Occupation "
+#~ msgstr "मां का व्यवसाय "
+
+#~ msgid "Nationality"
+#~ msgstr "राष्ट्रीयता"
+
+#~ msgid "Status Of Family"
+#~ msgstr "परिवार की स्थिति"
+
+#~ msgid "Middle class"
+#~ msgstr "मध्यम वर्ग"
+
+#~ msgid "Upper middle class"
+#~ msgstr "उच्च मध्यम वर्ग"
+
+#~ msgid "Lower middle class"
+#~ msgstr "निम्न मध्यम वर्ग"
+
+#~ msgid "Country"
+#~ msgstr "देश"
+
+#~ msgid "State"
+#~ msgstr "राज्य"
+
+#~ msgid "District"
+#~ msgstr "जिला"
+
+#~ msgid "PIN Code"
+#~ msgstr "पिन कोड"
+
+#~ msgid "phone "
+#~ msgstr "फ़ोन "
+
+#~ msgid "Contact No"
+#~ msgstr "संपर्क नंबर"
+
+#~ msgid "E-mail Id"
+#~ msgstr "ईमेल आईडी"
+
+#~ msgid "Personal Details"
+#~ msgstr "व्यक्तिगत विवरण"
+
+#~ msgid "Height"
+#~ msgstr "ऊंचाई"
+
+#~ msgid "Body type"
+#~ msgstr "शरीर के प्रकार"
+
+#~ msgid "Complexion"
+#~ msgstr "रंग"
+
+#~ msgid "Blood Group"
+#~ msgstr "रक्त समूह"
+
+#~ msgid "Education and job Details"
+#~ msgstr "शिक्षा और नौकरी का विवरण"
+
+#~ msgid "Education Detail"
+#~ msgstr "शिक्षा विस्तार"
+
+#~ msgid "Graduate"
+#~ msgstr "स्नातक"
+
+#~ msgid "Post Graduate"
+#~ msgstr "पोस्ट ग्रेजुएट"
+
+#~ msgid "Education"
+#~ msgstr "शिक्षा"
+
+#~ msgid "Hobby"
+#~ msgstr "शौक"
+
+#~ msgid "Occupation"
+#~ msgstr "व्यवसाय"
+
+#~ msgid "Designation"
+#~ msgstr "पद"
+
+#~ msgid "Annual Income"
+#~ msgstr "वार्षिक आय"
+
+#~ msgid "Company name"
+#~ msgstr "कंपनी का नाम"
+
+#~ msgid "Company city"
+#~ msgstr "कंपनी शहर"
+
+#~ msgid "Sibling Details"
+#~ msgstr "सिबलिंग विवरण"
+
+#~ msgid "No of unmarried brother"
+#~ msgstr "अविवाहित भाई की संख्या"
+
+#~ msgid "No of unmarried sister"
+#~ msgstr "अविवाहित बहन की संख्या"
+
+#~ msgid "No of Married Brother"
+#~ msgstr "विवाहित भाई की संख्या"
+
+#~ msgid "No of married sister"
+#~ msgstr "विवाहित बहन की सं"
+
+#~ msgid "Relative Details"
+#~ msgstr "संबंधी विवरण"
+
+#~ msgid "Relation"
+#~ msgstr "रिश्ता"
+
+#~ msgid "Relative Name"
+#~ msgstr "सापेक्ष नाम"
+
+#~ msgid "Mobile no"
+#~ msgstr "मोबाइल न"
+
+#~ msgid "Company Name"
+#~ msgstr "कंपनी का नाम"
+
+#~ msgid "Company Address"
+#~ msgstr "कंपनी का पता"
+
+#~ msgid "Other Information"
+#~ msgstr "अन्य सूचना"
+
+#~ msgid "Kundali Milana Necessary"
+#~ msgstr "कुंडली मिलाना जरूरी"
+
+#~ msgid "Other Information / About Me"
+#~ msgstr "अन्य जानकारी / मेरे बारे में"
+
+#~ msgid "Image Upload"
+#~ msgstr "छवि अपलोड"
+
+#~ msgid "No media selected!"
+#~ msgstr "कोई मीडिया चयनित नहीं!"
+
+#~ msgid "Upload"
+#~ msgstr "डालना"
+
+#~ msgid "Family Detail"
+#~ msgstr "परिवार का विवरण"
+
+#~ msgid "Personal Detail"
+#~ msgstr "व्यक्तिगत जानकारी"
+
+#~ msgid "Other Detail"
+#~ msgstr "अन्य जानकारी"
+
+#~ msgid "Date of Birth"
+#~ msgstr "जन्म की तारीख"
+
+#~ msgid "Maternal gotra"
+#~ msgstr "माता का गोत्र"
+
+#~ msgid "Comapny City"
+#~ msgstr "कंपनी शहर"
+
+#~ msgid "Father's Occupation"
+#~ msgstr "पिता का व्यवसाय"
+
+#~ msgid "Father's Annual Income"
+#~ msgstr "पिता की वार्षिक आय"
+
+#~ msgid "Father's Mobile No"
+#~ msgstr "पिता मोबाइल नं"
+
+#~ msgid "Mother's Name"
+#~ msgstr "मां का नाम"
+
+#~ msgid "Mother's Occupation"
+#~ msgstr "मां का व्यवसाय"
+
+#~ msgid "Native Place"
+#~ msgstr "पैतृक स्थान"
+
+#~ msgid "Status of Family"
+#~ msgstr "परिवार की स्थिति"
+
+#~ msgid "Un-married Brother"
+#~ msgstr "विवाहित भाई की संख्या"
+
+#~ msgid "Un-married Sister"
+#~ msgstr "विवाहित बहन की सं"
+
+#~ msgid "Married Brother"
+#~ msgstr "विवाहित भाई की संख्या"
+
+#~ msgid "Married Sister"
+#~ msgstr "विवाहित बहन की सं"
+
+#~ msgid "Kundali Milan"
+#~ msgstr "कुंडली मिलान"
+
+#~ msgid "About Me"
+#~ msgstr "मेरे बारे में"
+
+#~ msgid "Andaman and Nicobar Islands"
+#~ msgstr "अंडमान व नोकोबार द्वीप समूह"
+
+#~ msgid "Andhra Pradesh"
+#~ msgstr "आंध्र प्रदेश"
+
+#~ msgid "Arunachal Pradesh"
+#~ msgstr "अरुणाचल प्रदेश"
+
+#~ msgid "Assam"
+#~ msgstr "असम"
+
+#~ msgid "Bihar"
+#~ msgstr "बिहार"
+
+#~ msgid "Chandigarh"
+#~ msgstr "चंडीगढ़"
+
+#~ msgid "Chhattisgarh"
+#~ msgstr "छत्तीसगढ़"
+
+#~ msgid "Dadra and Nagar Haveli"
+#~ msgstr "दादरा और नगर हवेली"
+
+#~ msgid "Daman and Diu"
+#~ msgstr "दमन और दीव"
+
+#~ msgid "Delhi"
+#~ msgstr "दिल्ली"
+
+#~ msgid "Goa"
+#~ msgstr "गोवा"
+
+#~ msgid "Gujarat"
+#~ msgstr "गुजरात"
+
+#~ msgid "Haryana"
+#~ msgstr "हरियाणा"
+
+#~ msgid "Himachal Pradesh"
+#~ msgstr "हिमाचल प्रदेश"
+
+#~ msgid "Jammu and Kashmir"
+#~ msgstr "जम्मू और कश्मीर"
+
+#~ msgid "Jharkhand"
+#~ msgstr "झारखंड"
+
+#~ msgid "Karnataka"
+#~ msgstr "कर्नाटक"
+
+#~ msgid "Kerala"
+#~ msgstr "केरल"
+
+#~ msgid "Lakshadweep"
+#~ msgstr "लक्षद्वीप"
+
+#~ msgid "Madhya Pradesh"
+#~ msgstr "मध्य प्रदेश"
+
+#~ msgid "Maharashtra"
+#~ msgstr "महाराष्ट्र"
+
+#~ msgid "Manipur"
+#~ msgstr "मणिपुर"
+
+#~ msgid "Meghalaya"
+#~ msgstr "मेघालय"
+
+#~ msgid "Mizoram"
+#~ msgstr "मिजोरम"
+
+#~ msgid "Nagaland"
+#~ msgstr "नगालैंड"
+
+#~ msgid "Orissa"
+#~ msgstr "ओडिशा"
+
+#~ msgid "Pondicherry"
+#~ msgstr "पांडिचेरी"
+
+#~ msgid "Punjab"
+#~ msgstr "पंजाब"
+
+#~ msgid "Rajasthan"
+#~ msgstr "राजस्थान"
+
+#~ msgid "Sikkim"
+#~ msgstr "Sikkim"
+
+#~ msgid "Tamil Nadu"
+#~ msgstr "तमिलनाडु"
+
+#~ msgid "Tripura"
+#~ msgstr "त्रिपुरा"
+
+#~ msgid "Uttaranchal"
+#~ msgstr "उत्तरांचल"
+
+#~ msgid "Uttar Pradesh"
+#~ msgstr "उत्तर प्रदेश"
+
+#~ msgid "West Bengal"
+#~ msgstr "पश्चिम बंगाल"
+
+#~ msgid "Slim"
+#~ msgstr "पतला"
+
+#~ msgid "Average"
+#~ msgstr "औसत"
+
+#~ msgid "Athletic"
+#~ msgstr "पुष्ट"
+
+#~ msgid "Heavy"
+#~ msgstr "भारी"
+
+#~ msgid "Fair"
+#~ msgstr "गोरा"
+
+#~ msgid "Wheatish"
+#~ msgstr "गेहुआ रंग"
+
+#~ msgid "Dusky"
+#~ msgstr "काला"
+
+#~ msgid "Dark"
+#~ msgstr "काला"
+
+#~ msgid "Dark Brown"
+#~ msgstr "गहरा भूरा"
+
+#~ msgid "Light Brown"
+#~ msgstr "हल्का भूरा"
+
+#~ msgid "Matrimonial List"
+#~ msgstr "वैवाहिक सूची"
+
+#~ msgid "Father"
+#~ msgstr "पिता जी"
+
+#~ msgid "Mother"
+#~ msgstr "मां"
+
+#~ msgid "View More"
+#~ msgstr "और देखो"
+
+#~ msgid "DOB"
+#~ msgstr "जन्म की तारीख"

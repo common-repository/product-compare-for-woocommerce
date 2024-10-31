@@ -1,0 +1,13 @@
+/**
+ * Admin Custom Style (CSS)
+ * @package product-compare-for-woocommerce	
+ */
+.block_css {
+	padding:20px 20px;
+	margin-bottom: 15px;
+	background-color: #2e2f29;
+	color: #ff7129;
+}
+.proco_admin_heading {
+	padding: 5px 0 5px;
+}

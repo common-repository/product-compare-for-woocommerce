@@ -1,0 +1,56 @@
+/**
+ * Public Custom Style (CSS)
+ * @package product-compare-for-woocommerce 
+ */
+.heading {
+	font-size: 14px;
+	font-weight: bold;
+}
+.item_info p {
+	font-size: 14px;
+}
+.item_info p.img_block {
+	height: 20vh;
+}
+
+table.dimensions img {
+	width: 200px;
+	height: 250px;
+}
+
+/*
+	Remove product button in modal
+*/
+a.remove_product {
+    display: block;
+    padding: 10px 5px;
+    text-align: center;
+    text-transform: capitalize;
+}
+span.crossign {
+	display: inline-block;
+    font-weight: 900;
+    font-size: 1em;
+    width: 25px;
+    height: 25px;
+    padding: 3px;
+    border-radius: 3px;
+    margin-left: 1.5px;
+    color: #FFFFFF;
+    background-color: #ff0000;
+}
+
+.view_table {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 99999;
+}
+/*
+    Modal: compare
+*/
+#exampleModal {
+    z-index: 99999;
+}
